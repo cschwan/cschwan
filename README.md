@@ -19,7 +19,7 @@ I'm a particle physicist who solves his problems with [C++], C, [Rust], [Bash],
   tasks
 - [cschwan/managed-lhapdf]: Rust wrapper of the C++ library [LHAPDF]
 - [cschwan/sage-on-gentoo]: A distribution of the computer algebra software
-  package [sagemath] for [Gentoo Linux]. Now managed by @kiwifb
+  package [SageMath] for [Gentoo Linux]. Now managed by @kiwifb
 - [cschwan/hep-mc]: A C++ Monte Carlo integration library
 - [cschwan/hep-ps]: A C++ library for integrands to calculate perturbative
   calculation in high-energy physics
@@ -37,7 +37,7 @@ I'm a particle physicist who solves his problems with [C++], C, [Rust], [Bash],
 [cschwan/hep-ga]: https://github.com/cschwan/hep-ga
 [cschwan/dotfiles]: https://github.com/cschwan/dotfiles
 [LHAPDF]: https://lhapdf.hepforge.org/
-[sagemath]: https://www.sagemath.org/
+[SageMath]: https://www.sagemath.org/
 [Gentoo Linux]: https://www.gentoo.org/
 [geometric algebra]: https://en.wikipedia.org/wiki/Geometric_algebra
 [GDB]: https://sourceware.org/gdb/
