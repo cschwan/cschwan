@@ -2,9 +2,10 @@
 
 I'm a particle physicist who solves his problems with
 [C++](https://isocpp.org/), C, [Rust](https://www.rust-lang.org/),
-[Python](https://www.python.org/), [Fortran](https://fortran-lang.org/) and
-[GNU R](https://www.r-project.org/) -- whatever is required. Have a look at
-some of my [#repositories]!
+[Bash](https://www.gnu.org/software/bash/), [Python](https://www.python.org/),
+[Fortran](https://fortran-lang.org/) and [GNU
+R](https://www.r-project.org/)—whatever is required. Have a look at some of my
+[repositories](#repositories)!
 
 ## Repositories
 
