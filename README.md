@@ -1,6 +1,6 @@
 # Hi :wave:, I'm Christopher!
 
-I'm a particle physicist who solves his problems with [C++], C, [Rust], [Bash],
+I'm a particle physicist who solves problems with [C++], C, [Rust], [Bash],
 [Python], [Fortran] and [GNU R]—whatever is required. Have a look at some of my
 [repositories](#repositories)!
 
